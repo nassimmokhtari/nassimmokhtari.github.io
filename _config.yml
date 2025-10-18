@@ -13,7 +13,7 @@ title                    : "Nassim Mokhtari"
 title_separator          : "-"
 name                     : &name "MOKHTARI"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://nassimmokhtari.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -25,9 +25,9 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Nassim Mokhtari"
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am a Teaching and Research Assistant (ATER) at the National Engineering School of Brest (ENIB) and a member of the LabSTICC laboratory. My research focuses on optimization and automation in machine learning, particularly AutoML, Deep Learning, and bio-inspired approaches to Artificial Intelligence. I aim to develop AI systems that learn more effectively and efficiently"
   location         : "Brest, France"
-  employer         : "École nationale d'ingénieurs de Brest / LabSTICC"
+  employer         : "National Engineering School of Brest / LabSTICC"
   uri              : # URL
   email            : "mokhtari@enib.fr" 
 
