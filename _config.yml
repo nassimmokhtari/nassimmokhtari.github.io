@@ -276,6 +276,11 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+  - jekyll-polyglot
+  
+languages: ["fr", "en"]
+default_lang: "fr"
+exclude_from_localization: ["assets/", "images/"]
 
 # Mimic GitHub Pages with --safe
 whitelist:
