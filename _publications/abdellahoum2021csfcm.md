@@ -1,7 +1,7 @@
 ---
 title: "CSFCM: An improved fuzzy C-Means image segmentation algorithm using a cooperative approach"
 collection: publications
-category: manuscripts
+category: journal
 permalink: /publication/2021-csfcm:-an-improved-fuzzy-c-means-image-segmentation-algorithm-using-a-cooperative-approach
 excerpt: "Publication titled 'CSFCM: An improved fuzzy C-Means image segmentation algorithm using a cooperative approach' by Abdellahoum, Hamza and Mokhtari, Nassim and Brahimi, Abderrahmane and Boukra, Abdelmadjid."
 date: 2021-01-01

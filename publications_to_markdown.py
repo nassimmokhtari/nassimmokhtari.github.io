@@ -6,7 +6,7 @@ from datetime import datetime
 MD_TEMPLATE = """---
 title: "{title}"
 collection: publications
-category: manuscripts
+category: {category}
 permalink: /publication/{permalink}
 excerpt: "{excerpt}"
 date: {date}
@@ -17,6 +17,20 @@ citation: "{citation}"
 {content}
 """
 
+def detect_publication_type(entrytype):
+    entrytype = entrytype.lower()
+    if entrytype in ["article"]:
+        return "journal"
+    elif entrytype in ["inproceedings", "conference", "proceedings"]:
+        return "conference"
+    elif entrytype in ["book", "inbook"]:
+        return "book"
+    elif entrytype in ["phdthesis", "mastersthesis"]:
+        return "thesis"
+    elif entrytype in ["techreport"]:
+        return "report"
+    else:
+        return "manuscript"
 
 def generate_md_from_bib(bib_file, output_dir, base_url=""):
     """
@@ -59,10 +73,12 @@ def generate_md_from_bib(bib_file, output_dir, base_url=""):
         excerpt = f"Publication titled '{title}' by {authors}."
         content = f"This is the full content for the paper '{title}'."
         permalink = f"{year}-{title.lower().replace(' ', '-')}"
-
+        # Détection automatique du type
+        category = detect_publication_type(entrytype = entry.get("ENTRYTYPE", "misc"))
         md_content = MD_TEMPLATE.format(
             title=title,
             permalink=permalink,
+            category=category,
             excerpt=excerpt,
             date=f"{year}-01-01",  # par défaut, on prend le 1er janvier si pas de date complète
             venue=journal,
