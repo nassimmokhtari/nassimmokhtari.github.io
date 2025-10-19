@@ -8,11 +8,11 @@ title: "{title}"
 collection: publications
 category: manuscripts
 permalink: /publication/{permalink}
-excerpt: '{excerpt}'
+excerpt: "{excerpt}"
 date: {date}
-venue: '{venue}'
-bibtexurl: '{bibtexurl}'
-citation: '{citation}'
+venue: "{venue}"
+bibtexurl: "{bibtexurl}"
+citation: "{citation}"
 ---
 {content}
 """
