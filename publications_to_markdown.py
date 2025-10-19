@@ -20,15 +20,15 @@ citation: "{citation}"
 def detect_publication_type(entrytype):
     entrytype = entrytype.lower()
     if entrytype in ["article"]:
-        return "journal"
+        return "manuscripts"
     elif entrytype in ["inproceedings", "conference", "proceedings"]:
-        return "conference"
+        return "conferences"
     elif entrytype in ["book", "inbook"]:
-        return "book"
+        return "books"
     elif entrytype in ["phdthesis", "mastersthesis"]:
         return "thesis"
     elif entrytype in ["techreport"]:
-        return "report"
+        return "reports"
     else:
         return "manuscript"
 

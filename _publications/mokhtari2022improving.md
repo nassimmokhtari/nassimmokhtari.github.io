@@ -1,7 +1,7 @@
 ---
 title: "Improving neural architecture search by mixing a firefly algorithm with a training free evaluation"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2022-improving-neural-architecture-search-by-mixing-a-firefly-algorithm-with-a-training-free-evaluation
 excerpt: "Publication titled 'Improving neural architecture search by mixing a firefly algorithm with a training free evaluation' by Mokhtari, Nassim and Nédélec, Alexis and Gilles, Marlène and De Loor, Pierre."
 date: 2022-01-01

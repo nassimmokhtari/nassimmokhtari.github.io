@@ -1,7 +1,7 @@
 ---
 title: "Neural Architecture Search: Tradeoff Between Performance and Efficiency"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2025-neural-architecture-search:-tradeoff-between-performance-and-efficiency
 excerpt: "Publication titled 'Neural Architecture Search: Tradeoff Between Performance and Efficiency' by Tien Nguyen and Nassim Mokhtari and Alexis Nédélec."
 date: 2025-01-01

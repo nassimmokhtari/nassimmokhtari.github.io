@@ -1,7 +1,7 @@
 ---
 title: "Enhanced spatio-temporal image encoding for online human activity recognition"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2023-enhanced-spatio-temporal-image-encoding-for-online-human-activity-recognition
 excerpt: "Publication titled 'Enhanced spatio-temporal image encoding for online human activity recognition' by Mokhtari, Nassim and Fer, Vincent and Nédélec, Alexis and Gilles, Marlène and De Loor, Pierre."
 date: 2023-01-01

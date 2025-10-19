@@ -1,7 +1,7 @@
 ---
 title: "DriveToGaether: a Turnkey Collaborative Robotic Event Platform"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2024-drivetogaether:-a-turnkey-collaborative-robotic-event-platform
 excerpt: "Publication titled 'DriveToGaether: a Turnkey Collaborative Robotic Event Platform' by Duping de Saint-Cyr, Florence and Pepin, Nicolas Yannick and Mokhtari, Nassim and Morignot, Philippe and Vianey, Julien and Bosser, Anne-Gwenn and Ermakova, Liana."
 date: 2024-01-01

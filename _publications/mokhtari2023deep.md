@@ -1,7 +1,7 @@
 ---
 title: "Deep learning for graph analysis: application to online human activity recognition"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2023-deep-learning-for-graph-analysis:-application-to-online-human-activity-recognition
 excerpt: "Publication titled 'Deep learning for graph analysis: application to online human activity recognition' by Mokhtari, Nassim and Outlouhou, Mohamed and Nédélec, Alexis and De Loor, Pierre."
 date: 2023-01-01
