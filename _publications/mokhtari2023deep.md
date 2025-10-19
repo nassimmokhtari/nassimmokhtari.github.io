@@ -3,7 +3,6 @@ title: "Deep learning for graph analysis: application to online human activity r
 collection: publications
 category: conferences
 permalink: /publication/2023-deep-learning-for-graph-analysis:-application-to-online-human-activity-recognition
-excerpt: "Publication titled 'Deep learning for graph analysis: application to online human activity recognition' by Mokhtari, Nassim and Outlouhou, Mohamed and Nédélec, Alexis and De Loor, Pierre."
 date: 2023-01-01
 venue: "2023 IEEE 22nd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)"
 bibtexurl: "https://nassimmokhtari.github.io/files/deep-learning-for-graph-analysis:-application-to-online-human-activity-recognition.bib"
