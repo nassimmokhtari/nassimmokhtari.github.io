@@ -40,7 +40,7 @@ def generate_md_from_bib(bib_file, output_dir, base_url=""):
         bibtex_text = bibtexparser.dumps(temp_db)
 
         filename = f"{entry.get('ID')}.bib"
-        filepath = os.path.join(output_dir, filename)
+        filepath = os.path.join("files", filename)
 
         with open(filepath, "w", encoding="utf-8") as f:
             f.write(bibtex_text)
@@ -84,4 +84,4 @@ def generate_md_from_bib(bib_file, output_dir, base_url=""):
 
 # Exemple d'utilisation
 if __name__ == "__main__":
-    generate_md_from_bib("publications.bib", "publications_md", base_url="https://nassimmokhtari.github.io/files")
+    generate_md_from_bib("publications.bib", "_publications", base_url="https://nassimmokhtari.github.io/files")
