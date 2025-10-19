@@ -3,7 +3,6 @@ title: "Human Activity Recognition: A Spatio-temporal Image Encoding of 3D Skele
 collection: publications
 category: conferences
 permalink: /publication/2022-human-activity-recognition:-a-spatio-temporal-image-encoding-of-3d-skeleton-data-for-online-action-detection
-excerpt: "Publication titled 'Human Activity Recognition: A Spatio-temporal Image Encoding of 3D Skeleton Data for Online Action Detection' by Mokhtari, Nassim and Nédélec, Alexis and De Loor, Pierre."
 date: 2022-01-01
 venue: "International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications"
 bibtexurl: "https://nassimmokhtari.github.io/files/human-activity-recognition:-a-spatio-temporal-image-encoding-of-3d-skeleton-data-for-online-action-detection.bib"
