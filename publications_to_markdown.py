@@ -68,7 +68,7 @@ def generate_md_from_bib(bib_file, output_dir, base_url=""):
             venue=journal,
             slidesurl=slidesurl,
             paperurl=paperurl,
-            bibtexurl=os.path.join(base_url, bibtex_filename),
+            bibtexurl=f"{base_url}/{bibtex_filename}",
             citation=citation,
             content=content
         )
