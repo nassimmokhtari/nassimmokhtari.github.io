@@ -3,7 +3,6 @@ title: "Online Human Activity Recognition Using Efficient Neural Architecture Se
 collection: publications
 category: conferences
 permalink: /publication/2024-online-human-activity-recognition-using-efficient-neural-architecture-search-with-low-environmental-impact
-excerpt: "Publication titled 'Online Human Activity Recognition Using Efficient Neural Architecture Search with Low Environmental Impact' by Mokhtari, Nassim and Nédélec, Alexis and Gilles, Marlène and De Loor, Pierre."
 date: 2024-01-01
 venue: "Proceedings of the 19th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications"
 bibtexurl: "https://nassimmokhtari.github.io/files/online-human-activity-recognition-using-efficient-neural-architecture-search-with-low-environmental-impact.bib"
