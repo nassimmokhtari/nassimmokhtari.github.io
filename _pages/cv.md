@@ -20,24 +20,16 @@ Education
 Work experience
 ======
 * Sept. 2024 – Present: Attaché Temporaire d’Enseignement et de Recherche (ATER), École Nationale d’Ingénieurs de Brest  
-  * Teaching: UML, C, C++, Project Management (L3)  
-  * AI courses: Neural Networks, AutoML, NLP, Data Mining (M2)
-
-* June 2024 – Present: Research Engineer, École Nationale d’Ingénieurs de Brest  
-  * Improvement of a bio-inspired approach for automatic neural network design
-
-* June 2021 – June 2024: Teaching Assistant (Doctorant-enseignant), École Nationale d’Ingénieurs de Brest  
-  * Teaching: Python (L1, L3), C/C++, UML (L3), Neural Networks (M2)
-
+  
+* July 2024 – August 2024: Research Engineer, École Nationale d’Ingénieurs de Brest  
+  
+* June 2021 – June 2024: PhD Candidate & Teaching Assistant (Doctorant-enseignant), École Nationale d’Ingénieurs de Brest  
+  
 * Feb. 2020 – July 2020: Master Internship, European Center for Virtual Reality (CERV), Brest, France  
-  * Deep learning–based activity recognition for smart environments  
-  * Developed Android (Ionic) and Web (Flask) applications for data collection and analysis
-
+  
 * Jan. 2019 – July 2019: Master Internship, Laboratoire des Systèmes Informatiques, USTHB, Algeria  
-  * Image segmentation using metaheuristics and Fuzzy C-Means clustering (Java, Keras)
-
+  
 * Jan. 2017 – June 2017: Bachelor Internship, Laboratoire des Systèmes Informatiques, USTHB, Algeria  
-  * Sensor network optimization using Genetic Algorithm, Simulated Annealing, Multistart Descent (Java)
 
 Languages
 ======
