@@ -46,6 +46,7 @@ Publications
 
 Service and leadership
 ======
+* Reviewer - *Symposium Doctoral Francophone en IA - 2025*, Sept, 2025.
 * Reviewer — *Engineering Applications of Artificial Intelligence* (Elsevier), Nov. 2024  
 * Reviewer — *AAMAS 2023*, 22nd International Conference on Autonomous Agents and Multiagent Systems  
 
