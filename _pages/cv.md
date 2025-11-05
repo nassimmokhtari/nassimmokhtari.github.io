@@ -38,6 +38,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Software registration
+======
+* **Bio-Inspired Adaptive Neural Networks Configuration Algorithm**  
+  * Registered at the Agence pour la Protection des Programmes (APP), France  
+  * Deposit No. IDDN.FR.001.170071.000.S.C.2025.000.30000
+  * Date: April 2024  
+  * Authors: Nassim Mokhtari, Pierre De Loor, Marlène Gilles, Alexis Nédélec
 
 Academic service
 ======
