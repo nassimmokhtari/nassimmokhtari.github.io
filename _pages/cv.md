@@ -11,25 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science (Artificial Intelligence), École Nationale d’Ingénieurs de Brest, France, 2021–2024  
-  * Thesis: Automatic Neural Network Design — Efficient Architecture Search and Neurogenesis. Application to Human Activity Recognition.
-* M.S. in Interactive, Intelligent and Autonomous Systems, Université de Bretagne Occidentale, France, 2019–2020  
-* M.S. in Intelligent Computer Systems, USTHB University, Algiers, Algeria, 2017–2019  
-* B.S. in Software and Information Systems Engineering, USTHB University, Algiers, Algeria, 2014–2017  
+* Ph.D. in Computer Science (Artificial Intelligence), National Engineering School of Brest (ENIB), France, 2021–2024  
+  * Thesis: Automatic Neural Network Design — Efficient Architecture Search and Neurogenesis. Application to Human Activity Recognition.  
+* M.S. in Interactive, Intelligent and Autonomous Systems, University of Western Brittany (UBO), France, 2019–2020  
+* M.S. in Intelligent Computer Systems, University of Science and Technology Houari Boumediene (USTHB), Algiers, Algeria, 2017–2019  
+* B.S. in Software and Information Systems Engineering, University of Science and Technology Houari Boumediene (USTHB), Algiers, Algeria, 2014–2017  
 
 Work experience
 ======
-* Sept. 2024 – Present: Attaché Temporaire d’Enseignement et de Recherche (ATER), École Nationale d’Ingénieurs de Brest  
-  
-* July 2024 – August 2024: Research Engineer, École Nationale d’Ingénieurs de Brest  
-  
-* June 2021 – June 2024: PhD Candidate & Teaching Assistant (Doctorant-enseignant), École Nationale d’Ingénieurs de Brest  
-  
-* Feb. 2020 – July 2020: Master Internship, European Center for Virtual Reality (CERV), Brest, France  
-  
-* Jan. 2019 – July 2019: Master Internship, Laboratoire des Systèmes Informatiques, USTHB, Algeria  
-  
-* Jan. 2017 – June 2017: Bachelor Internship, Laboratoire des Systèmes Informatiques, USTHB, Algeria  
+* Sept. 2024 – Present: Temporary Lecturer and Research Associate (ATER), National Engineering School of Brest (ENIB), France  
+* July 2024 – Aug. 2024: Research Engineer, National Engineering School of Brest (ENIB), France  
+* June 2021 – June 2024: Ph.D. Candidate and Teaching Assistant, National Engineering School of Brest (ENIB), France  
+* Feb. 2020 – July 2020: Master’s Internship, European Center for Virtual Reality (CERV), Brest, France  
+* Jan. 2019 – July 2019: Master’s Internship, Computer Systems Laboratory, USTHB University, Algiers, Algeria  
+* Jan. 2017 – June 2017: Bachelor’s Internship, Computer Systems Laboratory, USTHB University, Algiers, Algeria  
 
 Languages
 ======
@@ -44,7 +39,7 @@ Publications
   {% endfor %}</ul>
 
 
-Service and leadership
+Academic service
 ======
 * Reviewer - *Symposium Doctoral Francophone en IA - 2025*, Sept, 2025.
 * Reviewer — *Engineering Applications of Artificial Intelligence* (Elsevier), Nov. 2024  
